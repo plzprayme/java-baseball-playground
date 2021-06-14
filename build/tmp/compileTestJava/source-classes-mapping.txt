@@ -2,3 +2,7 @@ study/StringTest.java
  study.StringTest
 study/SetTest.java
  study.SetTest
+calculator/Calculator.java
+ calculator.Calculator
+calculator/CalculatorTest.java
+ calculator.CalculatorTest

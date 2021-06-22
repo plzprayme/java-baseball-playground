@@ -1,6 +1,6 @@
 package calculator;
 
-public class Number {
+class Number {
     private int number;
 
     public Number(String s) {

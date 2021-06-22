@@ -1,6 +1,6 @@
 package calculator;
 
-public class Operator {
+class Operator {
     public static final int FIRST = 0;
     private static final char PLUS = '+';
     private static final char MINUS = '-';

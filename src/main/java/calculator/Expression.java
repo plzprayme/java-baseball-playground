@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class Expression {
+class Expression {
     private static final String delimiter = " ";
     private static final String NUMBER = "^[0-9]$";
     private static final String OPERATOR = "^(\\+|\\-|\\*|/)$";
